@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./MainApp.css";
+import "./App.css";
 
 function Header({ hijriDate, toggleDarkMode }) {
   return (
